@@ -1,0 +1,10 @@
+{
+  "name": "geoext",
+  "version": "1.1.0",
+  "main": "geoext.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
